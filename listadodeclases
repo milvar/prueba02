@@ -30,6 +30,21 @@ articulos,
 inventario,
 orden.
 
+al ingresar el orden.json, el sistema busca en el inventario de la ciudad, si no encuen5tra los productos, realiza un descuento de lo que encuentra, y deja una notación en el pedido para comunicarse con el proveedor de estos productos en la ciudad del pedido, 
+también realiza una búsqueda en las rutas de reparto y dependiendo de la ubicación es asignado a un camión con esta ruta.
+
+
+Inventario: actualiza los artículos existentes.
+
+Articulos: este ingresa un nuevo producto en el sistema, este producto debe, poseer una una categoria de productos, y un proveedor, también debe ingresar 
+nombre producto,
+cantidad producto,
+precio del producto,
+codigo de barras,
+ciudad.
+
+este proceso actualiza el listado de productos, y con el id resultante crea su punto en el inventario, de donde se administraran las salidas y los ingresos de estos productos.
+
 
 
 
