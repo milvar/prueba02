@@ -1,0 +1,65 @@
+{
+	"proveedores":[
+		{
+		"nit":"1234567",
+		"nombre":"jugos-naturales-sa",
+		"categoria":"condimentos",
+		"descripcion":"condimento y especias",
+		"direcciones":[
+			{
+			"ciudad":"10",
+			"direccion":"calle 12 # 15",
+			"telefono":"7458562"
+			},
+			{
+			"ciudad":"11",
+			"direccion":"calle 12 # 10",
+			"telefono":"748589"
+			},
+			{
+			"ciudad":"12",
+			"direccion":"calle 12 # 14",
+			"telefono":"854796"
+			}
+			],
+			"articulos":[
+			{
+			"codigo":"1",
+			"articulo":"ajo",
+			"descripcion":"paquete de 500gramos",
+			"ciudad":"10",
+			"codigo-de-barras":"74855965",
+			"precio":"5000",
+			"cantidad":"100"
+			},
+			{
+			"codigo":"1",
+			"articulo":"ajo",
+			"descripcion":"paquete de 300gramos",
+			"ciudad":"11",
+			"codigo-de-barras":"74855985",
+			"precio":"5000",
+			"cantidad":"100"
+			},
+			{
+			"codigo":"2",
+			"articulo":"pimienta",
+			"descripcion":"paquete de 300gramos",
+			"ciudad":"10",
+			"codigo-de-barras":"74855974",
+			"precio":"5000",
+			"cantidad":"100"
+			},
+			{
+			"codigo":"2",
+			"articulo":"pimienta",
+			"descripcion":"paquete de 300gramos",
+			"ciudad":"11",
+			"codigo-de-barras":"74855933",
+			"precio":"5000",
+			"cantidad":"100"
+			}
+			]
+		}
+	]
+}

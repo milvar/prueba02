@@ -1,0 +1,35 @@
+Clases desarrolladas para este consumo
+
+
+lib/
+Articulos,
+Categoria,
+CategoriaProducto,
+ConectorDB,
+Conexion,
+config,
+GiadeEntregas,
+Inventario,
+Pedido,
+ProductosPedido,
+Proveedor,
+Reportes,
+Transporte.
+
+modelo/
+masvendido,
+modelo.articul,
+modelo.inventario,
+modelo.orden
+}
+
+/ index
+/.htaccess
+/json
+articulos,
+inventario,
+orden.
+
+
+
+
